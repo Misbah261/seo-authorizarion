@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="36"
+   height="46"
+   version="1.1"
+   id="svg151817"
+   sodipodi:docname="integration-icon-001.svg"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <g
+     aria-label="ROUTE"
+     id="text162934"
+     style="font-size:10.6756px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#dee0e1;stroke-width:0.178866">
+    <text
+       xml:space="preserve"
+       style="font-size:9.67753px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#dee0e1;stroke-width:0.162144"
+       x="2.7967827"
+       y="26.674175"
+       id="text175146"><tspan
+         sodipodi:role="line"
+         id="tspan175144"
+         x="2.7967827"
+         y="26.674175"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';stroke-width:0.162144">index</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.67753px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#dee0e1;stroke-width:0.162144"
+       x="3.4102838"
+       y="36.347454"
+       id="text175146-2"><tspan
+         sodipodi:role="line"
+         id="tspan175144-8"
+         x="3.4102838"
+         y="36.347454"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';stroke-width:0.162144">/base</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.67753px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#c3e1b4;fill-opacity:1;stroke-width:0.162144"
+       x="3.0166154"
+       y="15.73566"
+       id="text175146-6"><tspan
+         sodipodi:role="line"
+         id="tspan175144-9"
+         x="3.0166154"
+         y="15.73566"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#c3e1b4;fill-opacity:1;stroke-width:0.162144">[GET]</tspan></text>
+  </g>
+  <sodipodi:namedview
+     id="namedview151819"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="7.9667312"
+     inkscape:cx="6.8409488"
+     inkscape:cy="25.16716"
+     inkscape:window-width="1485"
+     inkscape:window-height="737"
+     inkscape:window-x="19"
+     inkscape:window-y="756"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="text162934" />
+  <defs
+     id="defs151791">
+    <filter
+       x="-1.0286082"
+       y="-1.0286082"
+       width="3.0572163"
+       height="3.0572163"
+       filterUnits="objectBoundingBox"
+       id="a">
+      <feGaussianBlur
+         stdDeviation="4"
+         in="SourceGraphic"
+         id="feGaussianBlur151776" />
+    </filter>
+    <filter
+       x="-1.0286082"
+       y="-1.028498"
+       width="3.0572163"
+       height="3.0569959"
+       filterUnits="objectBoundingBox"
+       id="b">
+      <feGaussianBlur
+         stdDeviation="4"
+         in="SourceGraphic"
+         id="feGaussianBlur151779" />
+    </filter>
+    <filter
+       x="-1.0286082"
+       y="-1.0286082"
+       width="3.0572163"
+       height="3.0572163"
+       filterUnits="objectBoundingBox"
+       id="c">
+      <feGaussianBlur
+         stdDeviation="4"
+         in="SourceGraphic"
+         id="feGaussianBlur151782" />
+    </filter>
+    <filter
+       x="-1.028498"
+       y="-1.0286082"
+       width="3.0569959"
+       height="3.0572163"
+       filterUnits="objectBoundingBox"
+       id="d">
+      <feGaussianBlur
+         stdDeviation="4"
+         in="SourceGraphic"
+         id="feGaussianBlur151785" />
+    </filter>
+    <filter
+       x="-1.028498"
+       y="-1.028498"
+       width="3.0569959"
+       height="3.0569959"
+       filterUnits="objectBoundingBox"
+       id="e">
+      <feGaussianBlur
+         stdDeviation="4"
+         in="SourceGraphic"
+         id="feGaussianBlur151788" />
+    </filter>
+  </defs>
+</svg>

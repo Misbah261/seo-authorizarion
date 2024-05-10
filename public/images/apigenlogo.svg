@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="141.46439mm"
+   height="45.511906mm"
+   viewBox="0 0 141.46439 45.511906"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   sodipodi:docname="apigenlogo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.97115109"
+     inkscape:cx="229.62441"
+     inkscape:cy="79.802207"
+     inkscape:window-width="1512"
+     inkscape:window-height="945"
+     inkscape:window-x="0"
+     inkscape:window-y="747"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient17469">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop17465" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop17467" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient13505">
+      <stop
+         style="stop-color:#c00000;stop-opacity:1;"
+         offset="0"
+         id="stop13501" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop13503" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient13505"
+       id="linearGradient14320"
+       gradientUnits="userSpaceOnUse"
+       x1="39.476074"
+       y1="129.53249"
+       x2="180.81421"
+       y2="129.53249" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient17469"
+       id="linearGradient17471"
+       x1="33.19704"
+       y1="153.00692"
+       x2="174.09917"
+       y2="153.00692"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-33.19704,-130.70242)">
+    <text
+       xml:space="preserve"
+       style="font-size:42.6589px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;fill-opacity:1;stroke-width:0.872;stroke-dasharray:none;stroke-dashoffset:0;fill-rule:nonzero"
+       x="32.983746"
+       y="167.83089"
+       id="text1516-9"><tspan
+         sodipodi:role="line"
+         id="tspan1514-4"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.872;stroke-dasharray:none;stroke-dashoffset:0;fill-rule:nonzero"
+         x="32.983746"
+         y="167.83089">AP <tspan
+   style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.872;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke;fill-rule:nonzero"
+   id="tspan13454-1">Gen</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18.0404px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;fill-opacity:1;stroke-width:0.241992"
+       x="142.92189"
+       y="-121.236"
+       id="text5551"
+       transform="rotate(90)"><tspan
+         sodipodi:role="line"
+         id="tspan5549"
+         style="stroke-width:0.241993"
+         x="142.92189"
+         y="-121.236" /></text>
+    <g
+       style="fill:none;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(-0.74347916,0,0,0.74347916,110.64976,81.910358)"
+       id="g9554">
+	<path
+   d="m 25.864532,103.32132 c 0.03058,-4.089799 0.07266,-7.665959 0.160671,-10.792799 0.07564,-2.68715 0.185203,-5.04248 0.350571,-7.10685 1.353609,-16.89787 6.445742,-14.29991 27.268919,-14.61177 h 11.058416 c 19.369171,0 19.955811,0.18923 32.156751,-0.0615 1.0476,-0.0217 0.5903,-3.14342 0.6043,-5.09151 0,0 -24.69256,-0.10609 -32.761051,0.0793 H 53.644693 c -24.986266,0.1779 -32.44635,-3.25641 -33.928246,19.38513 -0.150329,2.29685 -0.239131,4.86203 -0.27848,7.72657 -0.04334,3.15304 -0.02666,6.66877 0.03382,10.588499 0.47993,0.6764 5.911004,0.56199 6.392756,-0.11519 z"
+   style="fill:#000000;fill-rule:nonzero;stroke:none;stroke-width:0.822187;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+   stroke-linecap="round"
+   id="path9552-7"
+   sodipodi:nodetypes="csscsscccsscc" />
+<path
+   d="M 19.507573,89.146841 C 19.235585,125.52108 18.054653,121.26398 -8.2725915,121.65824 H -19.331007 c -19.369168,0 -19.955806,-0.18921 -32.156756,0.0615 -1.047609,0.0217 -0.590304,3.14338 -0.604301,5.0915 0,0 24.692566,0.10609 32.761057,-0.0794 H -8.2725915 C 22.038389,126.5161 26.557401,131.616 25.900331,89.031671 c -0.479924,-0.67642 -5.911005,-0.56199 -6.392758,0.1152 z"
+   style="fill:#000000;fill-rule:nonzero;stroke:none;stroke-width:0.822187;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+   stroke-linecap="round"
+   id="path9552-7-5"
+   sodipodi:nodetypes="ccssccccc" />
+
+<rect
+   style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.17286;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+   id="rect14333"
+   width="35.484936"
+   height="5.1330409"
+   x="50.612526"
+   y="121.69674"
+   transform="scale(-1,1)" />
+<rect
+   style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.17286;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+   id="rect14333-5"
+   width="35.484936"
+   height="5.1330409"
+   x="-104.10839"
+   y="65.719749"
+   transform="scale(-1,1)" />
+</g>
+  </g>
+</svg>
